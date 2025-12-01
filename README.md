@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awaishasan" alt="awaishasan" /></a> </p>
 
-- 🌱 I’m currently learning **Learning**
+- 🌱 I’m currently **Learning**
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **muhammadawaishassan1@gmail.com**
 
-- ⚡ Fun fact **Make life Easy**
+- ⚡ Fun fact **Flutter Make life Easy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

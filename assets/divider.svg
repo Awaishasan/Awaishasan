@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="12" viewBox="0 0 1200 12" role="img" aria-label="Animated gradient divider">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#2563eb"><animate attributeName="stop-color" values="#2563eb;#7c3aed;#2563eb" dur="8s" repeatCount="indefinite"/></stop>
+<stop offset="55%" stop-color="#7c3aed"><animate attributeName="stop-color" values="#7c3aed;#0d9488;#7c3aed" dur="8s" repeatCount="indefinite"/></stop>
+<stop offset="100%" stop-color="#0d9488"><animate attributeName="stop-color" values="#0d9488;#2563eb;#0d9488" dur="8s" repeatCount="indefinite"/></stop>
+</linearGradient>
+</defs>
+<style>
+.fade{animation:fade 1.2s ease-out both}
+@keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0px)}}
+</style>
+<rect width="1200" height="4" y="4" rx="2" fill="url(#g)"/><rect width="120" height="4" y="4" rx="2" fill="#ffffff" opacity="0.7"><animate attributeName="x" values="-120;1200" dur="4s" repeatCount="indefinite"/></rect></svg>
